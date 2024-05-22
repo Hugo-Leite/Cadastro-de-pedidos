@@ -18,7 +18,7 @@ Nessa API desenvolvida com node.js e utilizando o framework express, facilita a 
 Clone o projeto
 
 ```bash
-  git clone https://link-para-o-projeto
+  git clone https://github.com/Hugo-Leite/Cadastro-de-pedidos.git
 ```
 
 Instale as dependências
