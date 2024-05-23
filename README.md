@@ -1,7 +1,7 @@
 
 # Cadastro de pedidos
 
-Nessa API desenvolvida com node.js e utilizando o framework express, facilita a organização e a rapidez no cadastro de pedidos, além de gerar id específicos com o pacote uuid para cada pedido. Com esse projeto desenvolvi minhas habilidades com node.js e express.
+Nessa API desenvolvida com node.js e utilizando o framework express. Facilita a organização e a rapidez no cadastro de pedidos, além de gerar id específicos com o pacote uuid para cada pedido. Com esse projeto desenvolvi minhas habilidades com node.js e express.
 
 
 ## Métodos
